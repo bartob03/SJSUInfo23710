@@ -1,2 +1,0 @@
-# SJSUInfo23710
-For Info 237-10

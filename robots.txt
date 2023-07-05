@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bartob03.github.io/SJSUInfo23710/sitemap.xml
